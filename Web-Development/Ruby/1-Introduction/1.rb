@@ -1,4 +1,5 @@
-=begin
+=begin
+
 Overview & Sneak Peek
 Ruby is a powerful, flexible programming language you can use in web/Internet development, to process text, to create games, and as part of the popular Ruby on Rails web framework. Ruby is:
 
@@ -13,4 +14,7 @@ Easy to use. Ruby was designed by Yukihiro Matsumoto (often just called "Matz") 
 This course assumes no previous knowledge of Ruby in particular or programming/computer science in general.
 
 Instructions
-Ready to learn Ruby? Click the Submit button to continue!=end
+Ready to learn Ruby? Click the Submit button to continue!=end
+
+#END OF THE DOCUMENT
+
